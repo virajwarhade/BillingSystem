@@ -33,8 +33,8 @@
 
             
 
-            <input type="text" name="productName" id="" class="rounded-md border hover:ring outline-0 focus:ring focus:ring-blue-700 bg-white px-2 py-1" placeholder="Productr NAme">
-            <input type="text" name="productPrice" id="" class="rounded-md border hover:ring outline-0 focus:ring focus:ring-blue-700 bg-white px-2 py-1" placeholder="Productr Price">
+            <input type="text" name="productName" id="" class="rounded-md border hover:ring outline-0 focus:ring focus:ring-blue-700 bg-white px-2 py-1" placeholder="Productr Name">
+            <input type="text" name="productPrice" id="" class="rounded-md border hover:ring outline-0 focus:ring focus:ring-blue-700 bg-white px-2 py-1" placeholder="Product Price">
             <input type="submit" name="" id="" class="rounded-md text-white bg-blue-700 active:bg-blue-800 hover:bg-blue-500 border border-black hover:ring outline-0 focus:ring focus:ring-blue-700 px-2 py-1" placeholder="Productr Price">
             
 

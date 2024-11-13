@@ -36,7 +36,7 @@
     <div class="bg-white md:w-4/5 mt-6 lg:w-3/4 rounded-2xl border p-6 mx-auto  shadow flex flex-col">
 
         <div class="text-3xl font-semibold text-gray-700 mb-8">
-            Inventory Products
+            Billings
         </div>
 
 
