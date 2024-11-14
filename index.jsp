@@ -43,8 +43,7 @@
         
         <p class="text-center text-gray-700 text-md font-normal italic">
             Viraj Warhade - 12302040503012
-            <br>
-            Madhav Devaiya - 12302040503004
+            
 
         </p>
 
